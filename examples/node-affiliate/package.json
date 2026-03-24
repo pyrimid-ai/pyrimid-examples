@@ -1,0 +1,12 @@
+{
+  "name": "pyrimid-node-affiliate",
+  "version": "1.0.0",
+  "description": "Pyrimid affiliate agent example — Node.js",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx tsx index.ts"
+  },
+  "dependencies": {
+    "@pyrimid/sdk": "^0.2.5"
+  }
+}
